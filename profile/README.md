@@ -1,11 +1,10 @@
-# SA-MP Android Brasil
+# SA-MP Android
 
 ---
 
-Welcome to SA-MP Android Brasil!
+Welcome to SA-MP Android!
 
 ## Repository info
-  - [SA-MP-Android Brasil](https://github.com/SAMP-Android/SAMP-Android-Dev) - The main application. (PRIVATE)
-  - [DynamicLayoutCreator](https://github.com/Ruan625Br/DynamicLayoutCreator) - Dynamic layout creator for SA-MP Android
+  - [SA-MP-Android](https://github.com/SAMP-Android/SAMP-Android-Dev) - The main application. (PRIVATE)
   - [SA-MP Android Include](https://github.com/SAMP-Android/SAMP-Android-include) - Without description
 
